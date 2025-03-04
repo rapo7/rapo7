@@ -5,7 +5,7 @@
 - 📫 How to reach me ravitejarapolu.mr@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Masters Student at GW
-- visit my website athttps://rapo7.github.io/blog/about
+- visit my website at https://rapo7.github.io/blog/about
 
 
 <!---
